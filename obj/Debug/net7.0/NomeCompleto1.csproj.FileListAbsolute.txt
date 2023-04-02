@@ -1,0 +1,15 @@
+C:\Users\GABRIEL\NomeCompleto1\bin\Debug\net7.0\NomeCompleto1.exe
+C:\Users\GABRIEL\NomeCompleto1\bin\Debug\net7.0\NomeCompleto1.deps.json
+C:\Users\GABRIEL\NomeCompleto1\bin\Debug\net7.0\NomeCompleto1.runtimeconfig.json
+C:\Users\GABRIEL\NomeCompleto1\bin\Debug\net7.0\NomeCompleto1.dll
+C:\Users\GABRIEL\NomeCompleto1\bin\Debug\net7.0\NomeCompleto1.pdb
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.csproj.AssemblyReference.cache
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.AssemblyInfoInputs.cache
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.AssemblyInfo.cs
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.csproj.CoreCompileInputs.cache
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.dll
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\refint\NomeCompleto1.dll
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.pdb
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\NomeCompleto1.genruntimeconfig.cache
+C:\Users\GABRIEL\NomeCompleto1\obj\Debug\net7.0\ref\NomeCompleto1.dll
